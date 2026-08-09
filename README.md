@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME_KAMU&theme=dark)](https://git.io/streak-stats)
 <!--
 **4bdurr/4bdurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
